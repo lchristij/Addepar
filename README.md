@@ -4,6 +4,6 @@ Addepar was created in 2009 by an ex Palantir co founder and an employee of Pala
 
 New competitors include: Robinhood, riskalyze, morngingstar advisor workstation, acorns, emoney, seeking alpha, among others. Addepar brings people, data, and technoogy together. They have built a platform that specializes in data aggregation, analytics, and portfolio reporting. They've designed a model that can encapsulate any type of assets and go deeply granular into positions and transaction history to accurately capture performance and risk.
 
-<img src="addepar.jpg" alt="Addepar Now">
+<img src="https://github.com/lchristij/Addepar/images/addepar1.jpg" alt="Addepar Now">
 
 <h2>This is the future of Wealth Management</h2>
